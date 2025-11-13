@@ -1,5 +1,9 @@
 string1
+<<<<<<< HEAD
+string2
+=======
 string9
+>>>>>>> 81e9c4e34155a5ec422f3d70db7561fb5bf105f3
 string3
 string4
 string5
